@@ -1,0 +1,146 @@
+* {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    overflow: auto;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+a {
+    font-size: 33px;
+}
+
+/* clases */
+
+.header1 {
+    border: solid black;
+    margin-top: 2%;
+    background-color: #133AAC;
+    height: 80px;
+}
+
+.navInicial {
+    background-color: #03899C;
+    height: 50%;
+    border: solid black;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 40px;
+    overflow: hidden;
+}
+
+.sectionEdit {
+    background-color: #133AAC;
+    height: 800px;
+    width: 30%;
+    border: solid black;
+    float: left;
+    margin-top: 1%;
+}
+
+.header2 {
+    background-color: #03899C;
+    height: 10%;
+    border: solid black;
+    margin: 1% 2%;
+    font-size: 30px;
+}
+
+.navPrin {
+    background-color: #03899C;
+    height: 73%;
+    border: solid black;
+    margin: 2% 2%;
+}
+
+.pie1 {
+    background-color: #03899C;
+    height: 10%;
+    border: solid black;
+    margin: 2% 2%;
+}
+
+.sectionEdit2 {
+    background-color: #133AAC;
+    height: 800px;
+    width: 65%;
+    border: solid black;
+    float: right;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.artic {
+    background-color: #442B83;
+    height: 35%;
+    border: solid black;
+    margin: 1% 2%;
+}
+
+.parraf {
+    background-color: #03899C;
+    height: 16%;
+    border: solid black;
+    margin-top: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.parraf2 {
+    background-color: #03899C;
+    height: 42%;
+    width: 65%;
+    border: solid black;
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    float: left;
+}
+
+.asid {
+    background-color: #03899C;
+    height: 42%;
+    width: 28%;
+    border: solid black;
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 2%;
+    float: right;
+    overflow: hidden;
+}
+
+.pie2 {
+    background-color: #03899C;
+    height: 16%;
+    border: solid black;
+    clear: both;
+    margin: 2%;
+}
+
+.pieMedio {
+    background-color: #03899C;
+    height: 10%;
+    border: solid black;
+    margin: 2% 2%;
+}
+
+.pieFinal {
+    background-color: #133AAC;
+    height: auto;
+    border: solid black;
+    clear: both;
+}
+
+.redes {
+    width: 62px;
+    height: 62px;
+    background-color: #b8ccd6;
+    list-style: none;
+    margin-left: 45%;
+}
